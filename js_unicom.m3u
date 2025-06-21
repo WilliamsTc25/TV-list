@@ -195,9 +195,9 @@ http://112.86.202.37:8112/JSBC_iptv/C10000433@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000434@JSBC
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视(4K)
 http://112.86.202.37:8112/JSBC_iptv/C10000436@JSBC
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视(4K)
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视(4K)
 http://112.86.202.37:8112/JSBC_iptv/C10000438@JSBC
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视(4K)
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",437(4K)
 http://112.86.202.37:8112/JSBC_iptv/C10000437@JSBC
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视(4K)
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",439(4K)
 http://112.86.202.37:8112/JSBC_iptv/C10000439@JSBC
