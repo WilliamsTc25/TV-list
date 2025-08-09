@@ -119,6 +119,14 @@ http://112.86.202.37:8112/JSBC_iptv/C10000198@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000200@JSBC
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视(1080P)
 http://112.86.202.37:8112/JSBC_iptv/C10000202@JSBC
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视HD
+http://112.86.202.37:8112/JSBC_iptv/C10000450@JSBC
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视HD
+http://112.86.202.37:8112/JSBC_iptv/C10000451@JSBC
+#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视HD
+http://112.86.202.37:8112/JSBC_iptv/C10000452@JSBC
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视HD
+http://112.86.202.37:8112/JSBC_iptv/C10000453@JSBC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",江苏城市(1080P)
 http://112.86.202.37:8112/JSBC_iptv/C10000224@JSBC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",江苏综艺(1080P)
