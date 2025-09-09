@@ -1,0 +1,22 @@
+#!/bin/sh /etc/rc.common
+START=99
+STOP=10
+
+NAME=clouddrive
+PROG=/root/clouddrive-2-linux-x86_64-0.9.1/clouddrive
+DIR=/root/clouddrive-2-linux-x86_64-0.9.1
+PIDFILE=/var/run/${NAME}.pid
+
+start() {
+    echo "Starting $NAME..."
+    [ -x "$PROG" ] || { echo "$PROG not found or not executable"; return 1; }
+    cd "$DIR" || { echo "Cannot change to $DIR"; return 1; }
+    nohup "$PROG" >/dev/null 2>&1 &
+    echo $! > "$PIDFILE"
+}
+
+stop() {
+    echo "Stopping $NAME..."
+    [ -f "$PIDFILE" ] && kill "$(cat $PIDFILE)" && rm -f "$PIDFILE"
+}
+
