@@ -138,6 +138,8 @@ http://112.86.202.37:8112/JSBC_iptv/C10000229@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000231@JSBC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",江苏财富(1080P)
 http://112.86.202.37:8112/JSBC_iptv/C10000467@JSBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",江苏国际(1080P)
+http://112.86.202.37:8112/JSBC_iptv/C10000470@JSBC
 #EXTINF:-1 group-title="江苏" tvg-name="南京新闻综合",南京新闻综合
 http://122.96.52.98:8006/JS_CUCC/G_NJXW.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoMjcH0bdretQeGgwOgFK%2FnEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="江苏" tvg-name="南京十八·生活",南京十八·生活
